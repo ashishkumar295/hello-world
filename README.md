@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hello there!
+this is ashish kumar from india, i am intrested in programming and web devlopement.
+but i am a beginner. nad also intrested to know how github work?
